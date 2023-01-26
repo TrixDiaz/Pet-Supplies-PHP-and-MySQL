@@ -22,38 +22,44 @@
                     <?php } ?>
 <section id="home">
     <div class="parallax">
-          <nav class="navbar navbar-expand-sm bg-light fixed-top">
-            <br><br>
-                  <div class="container-fluid">
-                    <div class="container fixed-top h5">
-                        <div class="row my-1">
-                              <div class="col" align="start">
-                              <img src="./assets/image/logo.png" alt="Logo" style="width:50px;" class="rounded-pill mt-1"> 
-                              </div>
-                              <div class="col-auto col-sm-0 col-md-5 mt-2 h3" align="center">
-                              <a href="#" class="navlink mx-1 text-decoration-none">
-                                <!-- <i class="bi bi-person-vcard "></i>  -->
-                                  Home
-                                </a>
-                              <a href="#about" class="navlink mx-1 text-decoration-none">
-                                <!-- <i class="bi bi-person-vcard "></i>  -->
-                                  About
-                                </a>
-                                <a href="products.php" class="navlink mx-1 text-decoration-none">
-                                <!-- <i class="bi bi-person-vcard "></i>  -->
-                                  Products
-                                </a>
-                              </div>
-                              <div class="col mt-2 h3" align="end">
-                              <a href="#" class="navlink mx-3 text-decoration-none" data-bs-toggle="modal" data-bs-target="#myModal"> 
-                                  <i class="bi bi-box-arrow-in-right "></i>
-                                  Login
-                              </a>
-                              </div>
-                        </div>
+    <nav class="navbar navbar-expand-lg bg-light">
+                    <div class="container-fluid">
+                      <a class="navbar-brand mx-5" href="#">  <img src="./assets/image/logo.png" alt="Logo" style="width:50px;" class="rounded-pill"> </a>
+                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse" id="navbarScroll">
+                        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                          <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="#about">About</a>
+                          </li>
+                          <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                              Product
+                            </a>
+                            <ul class="dropdown-menu">
+                              <li><a class="dropdown-item" href="products.php?category=all">All</a></li>
+                              <li><a class="dropdown-item" href="grooming.php?category=grooming">Grooming</a></li>
+                              <li><a class="dropdown-item" href="accessories.php?category=accessories">Accessories</a></li>
+                              <li><a class="dropdown-item" href="essential.php?category=essential">Essentials</a></li>
+                              <li><a class="dropdown-item" href="food.php?category=food">Foods</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                        <div class="d-flex">
+                            <div class="col h5" align="end">
+                                  <a href="#" class="navlink mx-3 text-decoration-none" data-bs-toggle="modal" data-bs-target="#myModal"> 
+                                      <i class="bi bi-box-arrow-in-right "></i>
+                                      Login
+                                  </a>
+                                  </div>
+                            </div>
                       </div>
-                  </div>
-              </nav>
+                    </div>
+                </nav>
             <br>
           <div class="container mt-5">
             <br>
@@ -62,10 +68,8 @@
                       <!-- Sample Dashboard in index page or landing page -->
                   </div>
                   <div class="col-8 bg-light mt-5 px-4 py-4" style="--bs-bg-opacity: .6;" align="center">
-                     <h4>Sample Admin Dashboard</h4>
-                     <label>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur quia nisi quod aut 
-                      itaque iste corrupti, laborum, voluptatum recusandae cumque atque officia sunt numquam odit temporibus est, veritatis totam eveniet
-                       officiis magnam dolore? Sed facilis facere, aliquid molestiae nisi saepe optio quidem! Quos aliquam repudiandae quidem! Quo rerum dolore nemo!
+                     <h4>PET LOVES PET ESSENTIALS</h4>
+                     <label>A shop with the supplies your pets need!! Let your love for your pets grow more here, welcome to Pet Loves!
                       </label>
                   </div>
               </div>
