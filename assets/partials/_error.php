@@ -2,7 +2,7 @@
 <html>
    <head>
       <title>ERROR 404 | PAGE NOT FOUND</title>
-      <meta http-equiv = "refresh" content = "5; url = ../../index.php" />
+      <meta http-equiv = "refresh" content = "3; url = ../../index.php" />
    </head>
    <style>
     

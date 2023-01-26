@@ -33,7 +33,7 @@ h1 {
 }
 .column p{
   width: auto;
-  height: 180px;
+  height: 200px;
 }
 
 /* Content */
@@ -99,7 +99,7 @@ h1 {
 <section class="gallery min-vh-100">
 <div class="row">
   <!--  ----------------------------------------------------------- Accessories ---------------------------------------------------------------  -->
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
       <img src="./assets/image/Cage1.jpg" class="gallery-item" alt="Travel cage" style="width:100%" height="200px">
       <hr>
@@ -109,7 +109,7 @@ h1 {
       <p>a well-built, easily cleanable cage with a carrying handle at the top for pet travel convenience.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/Harness1.jpg" class="gallery-item" alt="Harness" style="width:100%" height="200px">
     <hr>
@@ -119,7 +119,7 @@ h1 {
       <p>A pet harness is a piece of gear made of webbing straps that loop almost completely around an animal's chest and fasten together using side-release buckles.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/Toys.jpg" class="gallery-item" alt="Toys" style="width:100%" height="200px">
     <hr>
@@ -129,7 +129,7 @@ h1 {
       <p>A toy can assist your pet to avoid being bored and stop the emergence of certain behavioral behaviors.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/bed1.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -139,7 +139,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/bed2.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -149,7 +149,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/bed3.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -159,7 +159,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/clothes1.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>
@@ -169,7 +169,7 @@ h1 {
       <p>Pets can wear clothes made specifically for them. Most of the pet clothing available now is designed for little dogs, class="gallery-item" although certain products are also available for larger dogs and even cats.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/clothes2.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>
@@ -179,7 +179,7 @@ h1 {
       <p>Pets can wear clothes made specifically for them. Most of the pet clothing available now is designed for little dogs, class="gallery-item" although certain products are also available for larger dogs and even cats.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-2 Accessories">
     <div class="content">
     <img src="./assets/image/clothes3.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>

@@ -33,7 +33,7 @@ h1 {
 }
 .column p{
   width: auto;
-  height: 180px;
+   height: 200px;
 }
 
 /* Content */
@@ -99,7 +99,7 @@ h1 {
 <section class="gallery min-vh-100">
 <div class="row">
      <!--  ----------------------------------------------------------- Grooming ---------------------------------------------------------------  -->
-  <div class="column Grooming">
+  <div class="column mt-2 Grooming">
     <div class="content">
       <img src="./assets/image/Shampoo1.jpg" class="gallery-item" alt="Grooming" style="width:100%" height="200px">
       <hr>
@@ -109,7 +109,7 @@ h1 {
       <p>to treat bacterial infections, skin rashes, and dandruff in pets. mild to prevent the loss of natural oils. It still gets the dirt out while protecting his skin and coat.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-2 Grooming">
     <div class="content">
     <img src="./assets/image/tootbursh.jfif" class="gallery-item" alt="Toothbrush" style="width:100%" height="200px">
     <hr>
@@ -119,7 +119,7 @@ h1 {
     <p>Pick a peaceful time to brush your pet's teeth, a toothbrush with slanted handles that you can use for your pet with ease.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-2 Grooming">
     <div class="content">
     <img src="./assets/image/Cleaner1.jpg" class="gallery-item" alt="Paw cleaner" style="width:100%" height="200px">
     <hr>
@@ -129,7 +129,7 @@ h1 {
       <p>Use this paw cleanser to make cleaning easier and faster than battling with cloths and buckets of water.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-2 Grooming">
     <div class="content">
     <img src="./assets/image/Perfume1.jpg" class="gallery-item" alt="Perfume" style="width:100%" height="200px">
     <hr>

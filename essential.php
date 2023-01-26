@@ -33,7 +33,7 @@ h1 {
 }
 .column p{
   width: auto;
-  height: 180px;
+  height: 200px;
 }
 
 /* Content */
@@ -99,7 +99,7 @@ h1 {
 <section class="gallery min-vh-100">
 <div class="row">
  <!--  ----------------------------------------------------------- Essentials ---------------------------------------------------------------  -->
-  <div class="column Essentials">
+  <div class="column mt-2 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins1.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -109,7 +109,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-2 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins2.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -119,7 +119,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-2 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins3.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -129,7 +129,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-2 Essentials">
     <div class="content">
     <img src="./assets/image/tea1.jpg" class="gallery-item" alt="Tick and Flea Preventive" style="width:100%" height="200px">
     <hr>

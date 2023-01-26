@@ -33,7 +33,7 @@ h1 {
 }
 .column p{
   width: auto;
-  height: 180px;
+  height: 200px;
 }
 
 /* Content */
@@ -99,7 +99,7 @@ h1 {
 <section class="gallery min-vh-100">
 <div class="row">
  <!--  ----------------------------------------------------------- Food ---------------------------------------------------------------  -->
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/dogfood1.jpg" class="gallery-item" alt="Dog food" style="width:100%" height="200px">
       <hr>
@@ -109,7 +109,7 @@ h1 {
       <p>composed of meats, meat byproducts, cereals, grains, vitamins, and minerals to provide your dog with the proper nutrients and balance.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/dogfood2.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -119,7 +119,7 @@ h1 {
       <p>composed of meats, meat byproducts, cereals, grains, vitamins, and minerals to provide your dog with the proper nutrients and balance.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/catfood.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -129,7 +129,7 @@ h1 {
       <p>Our grain-free, organic, and nutritious cat chow is packed with the nutrients your cat needs.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/catfood2.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -139,7 +139,7 @@ h1 {
       <p>Our grain-free, organic, and nutritious cat chow is packed with the nutrients your cat needs.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/birdfood.jpg" class="gallery-item" alt="Bird food" style="width:100%" height="200px">
       <hr>
@@ -149,7 +149,7 @@ h1 {
       <p>variety of seeds, nuts, dried fruits, and vitamins are all present in this bird seed.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-2 Food">
     <div class="content">
       <img src="./assets/image/fishfood.jpg" class="gallery-item" alt="Fish Pellets" style="width:100%" height="200px">
       <hr>

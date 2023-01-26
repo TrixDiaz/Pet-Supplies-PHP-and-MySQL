@@ -33,7 +33,7 @@ h1 {
 }
 .column p{
   width: auto;
-  height: 180px;
+  height: 200px;
 }
 
 /* Content */
@@ -98,7 +98,7 @@ h1 {
 <section class="gallery min-vh-100">
 <div class="row">
      <!--  ----------------------------------------------------------- Grooming ---------------------------------------------------------------  -->
-  <div class="column Grooming">
+  <div class="column mt-3 Grooming">
     <div class="content">
       <img src="./assets/image/Shampoo1.jpg" class="gallery-item" alt="Grooming" style="width:100%" height="200px">
       <hr>
@@ -108,7 +108,7 @@ h1 {
       <p>to treat bacterial infections, skin rashes, and dandruff in pets. mild to prevent the loss of natural oils. It still gets the dirt out while protecting his skin and coat.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-3 Grooming">
     <div class="content">
     <img src="./assets/image/tootbursh.jfif" class="gallery-item" alt="Toothbrush" style="width:100%" height="200px">
     <hr>
@@ -118,7 +118,7 @@ h1 {
     <p>Pick a peaceful time to brush your pet's teeth, a toothbrush with slanted handles that you can use for your pet with ease.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-3 Grooming">
     <div class="content">
     <img src="./assets/image/Cleaner1.jpg" class="gallery-item" alt="Paw cleaner" style="width:100%" height="200px">
     <hr>
@@ -128,7 +128,7 @@ h1 {
       <p>Use this paw cleanser to make cleaning easier and faster than battling with cloths and buckets of water.</p>
     </div>
   </div>
-  <div class="column Grooming">
+  <div class="column mt-3 Grooming">
     <div class="content">
     <img src="./assets/image/Perfume1.jpg" class="gallery-item" alt="Perfume" style="width:100%" height="200px">
     <hr>
@@ -139,7 +139,7 @@ h1 {
     </div>
   </div>
   <!--  ----------------------------------------------------------- Accessories ---------------------------------------------------------------  -->
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
       <img src="./assets/image/Cage1.jpg" class="gallery-item" alt="Travel cage" style="width:100%" height="200px">
       <hr>
@@ -149,7 +149,7 @@ h1 {
       <p>a well-built, easily cleanable cage with a carrying handle at the top for pet travel convenience.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/Harness1.jpg" class="gallery-item" alt="Harness" style="width:100%" height="200px">
     <hr>
@@ -159,7 +159,7 @@ h1 {
       <p>A pet harness is a piece of gear made of webbing straps that loop almost completely around an animal's chest and fasten together using side-release buckles.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/Toys.jpg" class="gallery-item" alt="Toys" style="width:100%" height="200px">
     <hr>
@@ -169,7 +169,7 @@ h1 {
       <p>A toy can assist your pet to avoid being bored and stop the emergence of certain behavioral behaviors.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/bed1.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -179,7 +179,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/bed2.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -189,7 +189,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/bed3.jpg" class="gallery-item" alt="Bed" style="width:100%" height="200px">
     <hr>
@@ -199,7 +199,7 @@ h1 {
       <p>Products that you can use to make your pets comfortable with the surroundings.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/clothes1.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>
@@ -209,7 +209,7 @@ h1 {
       <p>Pets can wear clothes made specifically for them. Most of the pet clothing available now is designed for little dogs, class="gallery-item" although certain products are also available for larger dogs and even cats.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/clothes2.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>
@@ -219,7 +219,7 @@ h1 {
       <p>Pets can wear clothes made specifically for them. Most of the pet clothing available now is designed for little dogs, class="gallery-item" although certain products are also available for larger dogs and even cats.</p>
     </div>
   </div>
-  <div class="column Accessories">
+  <div class="column mt-3 Accessories">
     <div class="content">
     <img src="./assets/image/clothes3.jpg" class="gallery-item" alt="Pet clothes" style="width:100%" height="200px">
     <hr>
@@ -230,7 +230,7 @@ h1 {
     </div>
   </div>
  <!--  ----------------------------------------------------------- Essentials ---------------------------------------------------------------  -->
-  <div class="column Essentials">
+  <div class="column mt-3 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins1.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -240,7 +240,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-3 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins2.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -250,7 +250,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-3 Essentials">
     <div class="content">
       <img src="./assets/image/vitamins3.jpg" class="gallery-item" alt="Pet vitamins" style="width:100%" height="200px">
       <hr>
@@ -260,7 +260,7 @@ h1 {
       <p>LVitamins benefit an animal by assisting in the regulation of bodily processes, maintaining bodily h class="gallery-item"ealth, and fostering resistance to illnesses. A vitamin shortage can cause illness or even death.</p>
     </div>
   </div>
-  <div class="column Essentials">
+  <div class="column mt-3 Essentials">
     <div class="content">
     <img src="./assets/image/tea1.jpg" class="gallery-item" alt="Tick and Flea Preventive" style="width:100%" height="200px">
     <hr>
@@ -271,7 +271,7 @@ h1 {
     </div>
   </div>
  <!--  ----------------------------------------------------------- Food ---------------------------------------------------------------  -->
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/dogfood1.jpg" class="gallery-item" alt="Dog food" style="width:100%" height="200px">
       <hr>
@@ -281,7 +281,7 @@ h1 {
       <p>composed of meats, meat byproducts, cereals, grains, vitamins, and minerals to provide your dog with the proper nutrients and balance.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/dogfood2.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -291,7 +291,7 @@ h1 {
       <p>composed of meats, meat byproducts, cereals, grains, vitamins, and minerals to provide your dog with the proper nutrients and balance.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/catfood.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -301,7 +301,7 @@ h1 {
       <p>Our grain-free, organic, and nutritious cat chow is packed with the nutrients your cat needs.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/catfood2.jpg" class="gallery-item" alt="Cat food" style="width:100%" height="200px">
       <hr>
@@ -311,7 +311,7 @@ h1 {
       <p>Our grain-free, organic, and nutritious cat chow is packed with the nutrients your cat needs.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/birdfood.jpg" class="gallery-item" alt="Bird food" style="width:100%" height="200px">
       <hr>
@@ -321,7 +321,7 @@ h1 {
       <p>variety of seeds, nuts, dried fruits, and vitamins are all present in this bird seed.</p>
     </div>
   </div>
-  <div class="column Food">
+  <div class="column mt-3 Food">
     <div class="content">
       <img src="./assets/image/fishfood.jpg" class="gallery-item" alt="Fish Pellets" style="width:100%" height="200px">
       <hr>
