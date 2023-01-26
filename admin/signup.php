@@ -54,8 +54,8 @@ require '../assets/partials/_admin-check.php';
                                         <div class="">
                                         <select class="form-select text-uppercase" name="role">
                                            <li><option selected>USER ROLE</option></option></li>
-                                           <li><option value="ADMIN">Manager</option></li>
-                                           <li><option value="USER">Cashier</option></li>
+                                           <li><option value="ADMIN">ADMIN</option></li>
+                                           <li><option value="USER">MANAGER</option></li>
                                         </select>
                                     </div>
                                     </div>
